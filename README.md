@@ -11,8 +11,8 @@
 # Renata Gabriela
 <sub>*Data Scientist Junior*</sub>
 
-Engenheira Química apaixonada por dados e por programação. Devido a essa paixão estou cada vez mais me aprofundando no aprendizado de *Data Science* e esse repositório é para registrar os meus aprendizados e a minha progressão.
-Além do aprendizado em *Data Science* possuo foco em mostrar o conhecimento da forma mais clara possível, além de demonstrar de forma visualmente bonita. Devido a isso nesse repositório será utiizado muito o *Jupyter Notebook*, já que ele permite a construção de códigos de forma visual e ainda permite que tenha explicações escritas no mesmo arquivo. 
+Engenheira Química apaixonada por dados e por programação. Devido a essa paixão estou cada vez mais me aprofundando no aprendizado de *Data Science* e esse repositório é para registrar os meus aprendizados e progressão.
+Além do aprendizado em *Data Science* possuo foco em mostrar o conhecimento da forma mais clara possível, afim de demonstrar de forma visualmente bonita. Nesse repositório será utiizado muito o *Jupyter Notebook*, já que ele permite a construção de códigos de forma visual e ainda possibilita que tenha explicações escritas no mesmo arquivo. 
 
 **Background in:** Python, Machine Learning.
 

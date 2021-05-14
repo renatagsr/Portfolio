@@ -28,4 +28,9 @@ Projetos realizados utilizando Jupyter Notebook:
 * **Análise de Dados do AIRBNB**: [https://bit.ly/3cmZo46](https://bit.ly/3cmZo46)
 * **Análise da Violência do Rio de Janeiro**: [https://bit.ly/3vXmGVU](https://bit.ly/3vXmGVU)
 * **Panorama do COVID-19**: [https://bit.ly/2P5Q5fV](https://bit.ly/2P5Q5fV)
+* **Detecção de Fraude de Cartão de Crédito**: [https://bit.ly/3fg1d2Z](https://bit.ly/3fg1d2Z)
+* **Análise Exploratória de Dados (EDA)**: [https://bit.ly/3ydpb7u](https://bit.ly/3ydpb7u)
+* **Análise de Dados Eleitorais**: [https://bit.ly/3y7SU1I](https://bit.ly/3y7SU1I)
+* **Descoberta de novas drogas (medicamentos) (Drug Discovery): [https://bit.ly/3w0B6Uc](https://bit.ly/3w0B6Uc)
+* **Projetos de Computer Vision**: [https://bit.ly/3fj0HBd](https://bit.ly/3fj0HBd)
 

@@ -31,6 +31,6 @@ Projetos realizados utilizando Jupyter Notebook:
 * **Detecção de Fraude de Cartão de Crédito**: [https://bit.ly/3fg1d2Z](https://bit.ly/3fg1d2Z)
 * **Análise Exploratória de Dados (EDA)**: [https://bit.ly/3ydpb7u](https://bit.ly/3ydpb7u)
 * **Análise de Dados Eleitorais**: [https://bit.ly/3y7SU1I](https://bit.ly/3y7SU1I)
-* **Descoberta de novas drogas (medicamentos) (Drug Discovery): [https://bit.ly/3w0B6Uc](https://bit.ly/3w0B6Uc)
+* **Descoberta de novas drogas (medicamentos) (Drug Discovery)**: [https://bit.ly/3w0B6Uc](https://bit.ly/3w0B6Uc)
 * **Projetos de Computer Vision**: [https://bit.ly/3fj0HBd](https://bit.ly/3fj0HBd)
 

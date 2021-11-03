@@ -34,4 +34,5 @@ Projetos realizados utilizando Jupyter Notebook:
 * **Descoberta de novas drogas (medicamentos) (Drug Discovery)**: [https://bit.ly/3w0B6Uc](https://bit.ly/3w0B6Uc)
 * **Projetos de Computer Vision**: [https://bit.ly/3fj0HBd](https://bit.ly/3fj0HBd)
 * **Séries temporais**: [https://bit.ly/2YZoSjO](https://bit.ly/2YZoSjO)
+* **Método de Ensemble**: [https://bit.ly/3jYVfqe](https://bit.ly/3jYVfqe)
 
